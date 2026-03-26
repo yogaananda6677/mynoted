@@ -2,4 +2,10 @@
 {"dg-publish":true,"permalink":"/index/","dg-note-properties":{}}
 ---
 
-ini asalah
+---
+title: Catatan Pertamaku  
+---  
+
+draft: false  
+---
+
