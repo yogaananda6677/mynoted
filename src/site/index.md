@@ -1,5 +1,6 @@
 ---
 title: Home
+permalink: /src/site/notes/MJK/Kolaborasi RIP dan OSPF Mikrotik
 ---
 
 # HALO BERHASIL 🚀
